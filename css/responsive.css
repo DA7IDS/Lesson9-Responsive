@@ -1,0 +1,121 @@
+/* 900px */
+
+@media (max-width: 900px) {
+    header {
+        height: 700px;
+    }
+    .burger-bar {
+        display: flex;
+        float: right;
+        font-size: 30px;
+        color: #D9F0FF;
+    }
+    .nav-bar {
+        display: none;
+    }
+    .heading h2 {
+        font-size: 70px;
+    }
+    .wraper {
+        height: 500px;
+    }
+    .block-paragraph1 {
+        font-size: 45px;
+    }
+    .block-paragraph2 {
+        font-size: 18px;
+    }
+    .view button {
+        width: 180px;
+        height: 50px;
+    }
+    .view a {
+        font-size: 12px;
+    }
+    .container {
+        padding-top: 65px;
+        padding-bottom: 90px;
+    }
+    .container-paragraph1 {
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+    .container-paragraph2 {
+        font-size: 20px;
+        margin: 0px auto 25px auto;
+    }
+    .box {
+        width: 300px;
+        height: 305px;
+        margin-top: 18px;
+    }
+    .box-icon {
+        width: 70px;
+        height: 70px;
+    }
+    .box-paragraph1 {
+        font-size: 14px;
+        margin-top: 25px;
+        margin-bottom: 12px;
+    }
+    .box-paragraph2 {
+        font-size: 18px;
+        width: 80%;
+    }
+}
+
+
+/* 650px */
+
+@media (max-width: 650px) {
+    header {
+        height: 600px;
+    }
+    .heading h2 {
+        font-size: 45px;
+    }
+    .wraper {
+        height: 400px;
+    }
+    .block-paragraph1 {
+        font-size: 28px;
+    }
+    .block-paragraph2 {
+        font-size: 14px;
+    }
+    .view button {
+        width: 140px;
+        height: 35px;
+    }
+    .view a {
+        font-size: 10px;
+    }
+    .container {
+        padding-top: 30px;
+    }
+    .container-paragraph1 {
+        font-size: 22px;
+        margin-bottom: 10px;
+    }
+    .container-paragraph2 {
+        font-size: 15px;
+        margin: 0px auto 20px auto;
+    }
+    .box {
+        width: 230px;
+        height: 235px;
+        margin-top: 15px;
+    }
+    .box-icon {
+        width: 50px;
+        height: 50px;
+    }
+    .box-paragraph1 {
+        font-size: 12px;
+        margin-top: 20px;
+        margin-bottom: 8px;
+    }
+    .box-paragraph2 {
+        font-size: 15px;
+    }
+}
