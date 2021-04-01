@@ -155,7 +155,12 @@ header {
     margin: 0px auto 40px auto;
 }
 
-.cards {
+.box-section {
+    width: 95%;
+    margin: 0 auto;
+}
+
+.box-info {
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
